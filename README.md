@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-weeber)][(https://github.com/anuraghazra/github-readme-stats](https://github.com/Yash-weeber/Yash-weeber/edit/main/README.md))
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-weeber)][([https://github.com/anuraghazra/github-readme-stats](https://github.com/Yash-weeber/Yash-weeber/edit/main/README.md)](https://github.com/Yash-weeber/Yash-weeber/edit/main/README.md))
