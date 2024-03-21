@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-DenverCoder1/github-readme-streak-stats
+
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-weeber)][(https://github.com/anuraghazra/github-readme-stats](https://github.com/Yash-weeber/Yash-weeber/edit/main/README.md))
